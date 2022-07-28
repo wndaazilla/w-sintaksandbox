@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;600&display=swap");
+
+* {
+  font-family: Poppins;
+}
+body {
+  background-color: #f9f9f9;
+}
+/* pesan */
+#pesanan {
+  padding-top: 30px;
+}
+#pesanan input {
+  border-radius: 10px;
+}
+#pesanan textarea {
+  border-radius: 10px;
+  border: 2px solid;
+}
